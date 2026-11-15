@@ -1,1 +1,3 @@
-# kangaroo-vs-kiwi-gif
+# Roo vs Kiwi
+
+![Roo vs Kiwi](roo-vs-kiwi.gif)
