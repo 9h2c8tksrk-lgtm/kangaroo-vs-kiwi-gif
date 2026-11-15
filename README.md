@@ -1,3 +1,3 @@
 # Roo vs Kiwi
 
-![Roo vs Kiwi](roo-vs-kiwi.gif)
+![Roo vs Kiwi 3D](roo-vs-kiwi-3d.gif)
